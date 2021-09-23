@@ -5,7 +5,7 @@ https://doi.org/10.1016/j.jneumeth.2007.06.023
 BY: ANTONIETA MARTÍNEZ-GUERRERO & DAVID E. APABLAZA YEVENES
 We will appreciate if you refer to the authors of this code and the article of Rummel et al. (2007)
 
-This code is in development. Please follow the instructions to make it work.
+This code is under development. Please follow the instructions to make it work.
 
 1. Download the file tree.zip 
 2. Unzip the file.
