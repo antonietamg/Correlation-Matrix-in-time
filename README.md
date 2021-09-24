@@ -2,7 +2,7 @@
 Multivariate Correlation Analysis in Time. Based on the work of Christian Rummel, Gerold Baier and Markus Müller (2007)
 https://doi.org/10.1016/j.jneumeth.2007.06.023
 
-BY: ANTONIETA MARTÍNEZ-GUERRERO & DAVID E. APABLAZA YEVENES
+BY: ANTONIETA MARTÍNEZ-GUERRERO & DAVID E. APABLAZA-YEVENES
 We will appreciate if you refer to the authors of this code and the article of Rummel et al. (2007)
 
 This code is under development. Please follow the instructions to make it work.
