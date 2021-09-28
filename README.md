@@ -1,9 +1,9 @@
 # Correlation-Matrix-in-time
-Multivariate Correlation Analysis in Time. Based on the work of Christian Rummel, Gerold Baier and Markus Müller (2007)
-https://doi.org/10.1016/j.jneumeth.2007.06.023
+Multivariate Correlation Analysis in Time. Based on the work of Christian Rummel, Gerold Baier and Markus Müller (2007) https://doi.org/10.1016/j.jneumeth.2007.06.023 and Paola V. Olguín-Rodríguez, Markus Müller et al. (2018) https://doi.org/10.1089/brain.2018.0609
 
-BY: ANTONIETA MARTÍNEZ-GUERRERO & DAVID E. APABLAZA-YEVENES
-We will appreciate if you refer to the authors of this code and the article of Rummel et al. (2007)
+
+BY: Antonieta Martínez-Guerrero & David E. Apablaza-Yevenes
+We will appreciate if you refer to the authors of this code and cite this repository.
 
 This code is under development. Please follow the instructions to make it work.
 
