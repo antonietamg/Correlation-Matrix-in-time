@@ -19,4 +19,4 @@ This code is under development. Please follow the instructions to make it work.
 10. To calculate the Stationary Pattern run from ##### START STATIONARY PATTERN C #####
 11. To calculate the deviations and fluctuations from the Stationary Pattern, run from #### START DEVIATIONS C ####
 
-To get the Stationary Pattern, first you need to run the Correlation matrices in time and the Mean Correlation Matrix. In order to get the deviations and the fluctuations from the Stationary pattern, you need to run all the whole code.
+To get the Stationary Pattern, first you need to run the Correlation matrices in time and the Mean Correlation Matrix. In order to get the deviations and the fluctuations from the Stationary pattern, you need to run the whole code.
